@@ -4,7 +4,9 @@ GO-PCA Demos
 This repository contains demonstration of GO-PCA.
 
 List of demos:
+
 - DMAP (folder ``dmap``): Application of GO-PCA to expression data from diverse hematopoeitic lineages
+- more demos soon!
   
 GO-PCA
 ------
