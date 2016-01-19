@@ -1,9 +1,14 @@
 GO-PCA Demos
 ============
 
-This repository contains demonstration of GO-PCA.
+This repository contains GO-PCA demos in the form of `Jupyter`__ (formerly IPython) notebooks.
 
-List of demos:
+__ jupyter_
+
+.. _jupyter: http://jupyter.org/
+
+List of Demos
+-------------
 
 - DMAP (folder ``dmap``): Application of GO-PCA to expression data from diverse hematopoeitic lineages
 - more demos soon!
