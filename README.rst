@@ -1,10 +1,12 @@
 GO-PCA Demos
 ============
 
-This repository contains GO-PCA demos in the form of `Jupyter`__ (formerly IPython) notebooks.
+This repository contains `GO-PCA`__ demos in the form of `Jupyter`__ (formerly IPython) notebooks.
 
+__ gopca_
 __ jupyter_
 
+.. _gopca: https://github.com/flo-compbio/gopca
 .. _jupyter: http://jupyter.org/
 
 List of Demos
