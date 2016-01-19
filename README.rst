@@ -1,7 +1,7 @@
 GO-PCA Demos
 ============
 
-This repository contains `GO-PCA`__ demos in the form of `Jupyter`__ (formerly IPython) notebooks. These notebooks can either be viewed directly on GitHub (`example`__), or on the nbviewer website (using the corresponding GitHub URL; `example`__).
+This repository contains `GO-PCA`__ demos in the form of `Jupyter`__ (formerly IPython) notebooks. These notebooks can be viewed either directly on GitHub (`example`__), or on the nbviewer website (using the corresponding GitHub URL; `example`__).
 
 __ gopca_
 __ jupyter_
