@@ -3,8 +3,6 @@ GO-PCA Demos
 
 This repository contains `GO-PCA`__ demos in the form of `Jupyter`__ (formerly IPython) notebooks. Please use the `nbviewer`__ links for each demo below to view the notebooks online. (The notebooks can also be previewed directly on GitHub. However, unlike nbviewer, GitHub does not render the plotly figures embedded in the notebooks, which somewhat defeats their purpose.)
 
-These notebooks can be viewed either directly on GitHub (`example`__), however, GitHub fails to render the graphical output. To see the   or on the nbviewer website (using the corresponding GitHub URL; `example`__).
-
 __ gopca_
 __ jupyter_
 
