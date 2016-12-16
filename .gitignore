@@ -1,6 +1,5 @@
 # project-specific
-data/
-output/
+/dmap/download/
 .ipynb_checkpoints/
 
 # vim
